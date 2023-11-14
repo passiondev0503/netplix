@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6A670721-4EA6-40B0-8C7E-7866F4C6CBCD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D60E8962-DA1A-4F23-A827-371664DCBAE8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netplix/Module/Home/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "update()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D60E8962-DA1A-4F23-A827-371664DCBAE8 - 772fea237b842a13"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netplix.HomeViewController.update() -&gt; ()"
+                  moduleName = "Netplix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/octoos/Documents/Octo/@ANOTHER/Netplix/Netplix/Module/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "D60E8962-DA1A-4F23-A827-371664DCBAE8 - 772fea237b842ba6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netplix.HomeViewController.update() -&gt; ()"
+                  moduleName = "Netplix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/octoos/Documents/Octo/@ANOTHER/Netplix/Netplix/Module/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  uuid = "D60E8962-DA1A-4F23-A827-371664DCBAE8 - 772fea237b842b87"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Netplix.HomeViewController.update() -&gt; ()"
+                  moduleName = "Netplix"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/octoos/Documents/Octo/@ANOTHER/Netplix/Netplix/Module/Home/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "304329A0-F9E7-4D38-B254-754980F4ED00"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netplix/Networking/NetplixService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "executeRequest(_:url:parameters:headers:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "998676CD-29E2-494D-9F99-2DFFBBE5BEA7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netplix/Module/MovieDetail/MovieDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "update()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63561FE3-8027-4A42-9DD2-78C82AF28F1A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netplix/Module/MovieDetail/MovieDetailPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "movieDetailDidFail(error:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6171B00F-B5DF-4B43-B49A-603F717A7055"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netplix/Module/MovieDetail/MovieDetailPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "movieDetailDidSuccess(model:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "131899D7-4E99-4A72-9520-C5338738BCE6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Netplix/Networking/NetplixService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "executeRequest(_:url:parameters:headers:success:failure:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
