@@ -14,5 +14,3 @@ Using XCode:
 1. Find `Netplix` folder
 2. Build and Run the project
 
-# Credits
-- https://www.linkedin.com/in/octo-siswardhono-07676160
